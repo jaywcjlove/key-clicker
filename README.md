@@ -17,7 +17,8 @@
   </p>
 </div>
 
-![KeyClicker 1](./assets/screenshots-1.png)
+![KeyClicker 1](./assets/screenshots-1.jpg)
+![KeyClicker 1](./assets/screenshots-2.jpg)
 
 KeyClicker is an application on macOS that brings the experience of real keyboard typing sounds to users, perfectly recreating the typing sensation of mechanical keyboards and typewriters.
 
