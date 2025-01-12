@@ -11,7 +11,7 @@
     <a href="https://github.com/jaywcjlove/key-clicker/releases">变更日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/key-clicker/6739052447" title="KeyClicker for macOS">
+    <a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
       <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
