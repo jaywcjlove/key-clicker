@@ -14,13 +14,14 @@
     <a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
       <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
-    <a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases" title="KeyClicker for macOS">
+    <a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases/latest/download/KeyClicker.zip" title="KeyClicker for macOS">
       <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
     </a>
   </p>
 </div>
 
 ![KeyClicker 1](./assets/screenshots-1.jpg)
+
 ![KeyClicker 1](./assets/screenshots-2.jpg)
 
 KeyClicker 是一款在 macOS 上为用户带来真实键盘打字声音体验的应用，完美再现机械键盘与打字机的打字感受。

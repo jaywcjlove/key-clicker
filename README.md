@@ -14,13 +14,14 @@
     <a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
       <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
-    <a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases" title="KeyClicker for macOS">
+    <a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases/latest/download/KeyClicker.zip" title="KeyClicker for macOS">
       <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
     </a>
   </p>
 </div>
 
 ![KeyClicker 1](./assets/screenshots-1.jpg)
+
 ![KeyClicker 1](./assets/screenshots-2.jpg)
 
 KeyClicker is an application on macOS that brings the experience of real keyboard typing sounds to users, perfectly recreating the typing sensation of mechanical keyboards and typewriters.
