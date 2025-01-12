@@ -28,6 +28,9 @@ jobs:
             <a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
               <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
+            <a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases" title="KeyClicker for macOS">
+              <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
+            </a>
 
       - name: Get latest tag
         id: get_latest_tag
