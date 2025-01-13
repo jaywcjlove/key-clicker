@@ -18,6 +18,6 @@ If you need support or encounter any issues while using the application, feel fr
 
 - [**Email Support**: kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)  
 - [**Social Media**: Twitter/x @jaywcjlove](https://twitter.com/jaywcjlove)  
-- [**GitHub Issue**](https://github.com/jaywcjlove/iconed/issues/new/choose)  
+- [**GitHub Issue**](https://github.com/jaywcjlove/key-clicker/issues/new/choose)  
 
 I will respond to your messages as quickly as possible. Thank you for your support!

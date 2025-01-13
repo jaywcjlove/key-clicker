@@ -18,6 +18,6 @@
 
 - [**邮件支持**: kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)  
 - [**社交媒体**: Twitter/x @jaywcjlove](https://twitter.com/jaywcjlove)  
-- [**GitHub 问题反馈**](https://github.com/jaywcjlove/iconed/issues/new/choose)  
+- [**GitHub 问题反馈**](https://github.com/jaywcjlove/iconed/key-clicker/new/choose)  
 
 我会尽快回复你的消息。感谢你对本工具的支持！
