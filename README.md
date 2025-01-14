@@ -14,7 +14,7 @@
   <p>
     <a href="./README.zh.md">简体中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-    <a href="https://github.com/jaywcjlove/key-clicker/issues/new?assignees=jaywcjlove&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+KeyClicker">Contact & Support</a> • 
+    <a href="./feedback.md">Contact & Support</a> • 
     <a href="https://github.com/jaywcjlove/key-clicker/releases">Changelog</a>
   </p>
   <p>
