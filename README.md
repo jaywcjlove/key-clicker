@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> Statement: This project is not open-source. This repository serves as the official website for collecting issues and user feedback. This approach is purely to save costs, as the app cannot pass the review without an official website.
+<!--idoc:ignore:end-->
+
 <div align="center">
   <br />
   <br />
@@ -20,6 +25,12 @@
       <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
     </a>
   </p>
+</div>
+
+<div align="center">
+
+minimum OS requirement: `macOS 14.0`
+
 </div>
 
 ![KeyClicker 1](./assets/screenshots-1.jpg)

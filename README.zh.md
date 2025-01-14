@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> 声明：此项目并非开源，仓库作为官方网站，用于收集问题和用户需求。这样做是为了节省成本，因为没有官网，应用无法通过审核。
+<!--idoc:ignore:end-->
+
 <div align="center">
   <br />
   <br />
@@ -20,6 +25,12 @@
       <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
     </a>
   </p>
+</div>
+
+<div align="center">
+
+最低操作系统要求：`macOS 14.0`
+
 </div>
 
 ![KeyClicker 1](./assets/screenshots-1.jpg)
