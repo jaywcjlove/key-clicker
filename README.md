@@ -35,7 +35,11 @@ Minimum requirement: `macOS 14.0`; download from GitHub for the latest version.
 
 ![KeyClicker 1](./assets/screenshots-1.jpg)
 
-![KeyClicker 1](./assets/screenshots-2.jpg)
+![KeyClicker 2](./assets/screenshots-2.jpg)
+
+![KeyClicker 3](./assets/screenshots-3.jpg)
+
+![KeyClicker 4](./assets/screenshots-4.jpg)
 
 KeyClicker is an app that brings users a true keyboard typing sound experience, recreating the typing feel of mechanical keyboards and typewriters.
 
