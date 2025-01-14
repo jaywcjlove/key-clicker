@@ -29,7 +29,7 @@
 
 <div align="center">
 
-最低操作系统要求：`macOS 14.0`
+最低操作系统要求：`macOS 14.0`；通过 GitHub 下载以优先体验最新版本
 
 </div>
 
