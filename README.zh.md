@@ -33,13 +33,13 @@
 
 </div>
 
-![KeyClicker 1](./assets/screenshots-1.jpg)
+![KeyClicker 1](./assets/screenshots-1-cn.jpg)
 
-![KeyClicker 2](./assets/screenshots-2.jpg)
+![KeyClicker 2](./assets/screenshots-2-cn.jpg)
 
-![KeyClicker 3](./assets/screenshots-3.jpg)
+![KeyClicker 3](./assets/screenshots-3-cn.jpg)
 
-![KeyClicker 4](./assets/screenshots-4.jpg)
+![KeyClicker 4](./assets/screenshots-4-cn.jpg)
 
 KeyClicker 为用户带来真实键盘打字声音体验的应用，再现机械键盘与打字机的打字感受。
 
