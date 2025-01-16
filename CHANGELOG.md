@@ -1,0 +1,31 @@
+Changelog
+===
+
+<a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
+    <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+</a>
+<a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases/latest/download/KeyClicker.zip" title="KeyClicker for macOS">
+    <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
+</a>
+
+## [v1.2.0](https://github.com/jaywcjlove/key-clicker/releases)
+
+1. 新增：添加了随机声音设置。
+2. 修复：解决了按键声音授权问题。
+3. 新增：添加了命令菜单。
+
+---
+
+1. Feature: Added a setting for random sounds.
+2. Fix: Resolved the key click sound authorization issue.
+3. Chore: Added command menus.
+
+## [v1.1.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.1.0)
+
+1. feat: add custom key press sound.
+2. fix: resolve input issue caused by key press.
+
+---
+
+1. 功能：添加自定义按键声音。
+2. 修复：解决按键按下导致的输入问题。
