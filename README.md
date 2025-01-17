@@ -1,6 +1,6 @@
 <!--idoc:ignore:start-->
 > [!TIP]
-> Statement: This project is not open-source. This repository serves as the official website for collecting issues and user feedback. This approach is purely to save costs, as the app cannot pass the review without an official website.
+> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
 <!--idoc:ignore:end-->
 
 <div align="center">
