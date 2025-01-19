@@ -8,7 +8,17 @@ Changelog
     <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
 </a>
 
-## [v1.2.0](https://github.com/jaywcjlove/key-clicker/releases)
+## [v1.3.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.3.0)
+
+1. feat: 新增 22 个键盘声音。
+2. fix: 修正描述中的拼写错误。
+
+---
+
+1. feat: Add 22 new keyboard sounds.
+2. fix: Correct typo in description.
+
+## [v1.2.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.2.0)
 
 1. 新增：添加了随机声音设置。
 2. 修复：解决了按键声音授权问题。
