@@ -8,6 +8,16 @@ Changelog
     <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.4.0)
+
+1. feat: add option to hide menubar.
+2. style: modify menu bar icon style.
+
+---
+
+1. feat: 增加隐藏菜单栏的选项。
+2. style: 修改菜单栏图标的样式。
+
 ## [v1.3.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.3.0)
 
 1. feat: 新增 22 个键盘声音。
