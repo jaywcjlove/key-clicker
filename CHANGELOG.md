@@ -4,9 +4,16 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
-<a target="_blank" href="https://github.com/jaywcjlove/key-clicker/releases/latest/download/KeyClicker.zip" title="KeyClicker for macOS">
-    <img alt="KeyClicker from GitHub" src="https://wangchujiang.com/sb/download/apple-download.svg" height="51">
-</a>
+
+## [v1.5.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.5.0)
+
+1. Chore: Optimize command menu.
+2. Feat: Add version check feature.
+
+---
+
+1. 优化: 优化命令菜单。
+2. 新增: 添加版本检查功能。
 
 ## [v1.4.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.4.0)
 
