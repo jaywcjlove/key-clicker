@@ -5,6 +5,16 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.6.0)
+
+1. feat: Display pressed shortcut keys on the desktop.
+2. fix: resolve dock issue when reopening window
+
+---
+
+1. 新增：在桌面上显示你按下的快捷键  
+2. 修复：重新打开窗口时的 Dock 问题
+
 ## [v1.5.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.5.0)
 
 1. Chore: Optimize command menu.
