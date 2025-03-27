@@ -30,13 +30,13 @@
 
 </div>
 
-![KeyClicker 1](./assets/screenshots-1-cn.jpg)
+![KeyClicker 1](./assets/screenshots-1-cn.png)
 
-![KeyClicker 2](./assets/screenshots-2-cn.jpg)
+![KeyClicker 2](./assets/screenshots-2-cn.png)
 
-![KeyClicker 3](./assets/screenshots-3-cn.jpg)
+![KeyClicker 3](./assets/screenshots-3-cn.png)
 
-![KeyClicker 4](./assets/screenshots-4-cn.jpg)
+![KeyClicker 4](./assets/screenshots-4-cn.png)
 
 KeyClicker 为用户带来真实的键盘打字声音体验，再现机械键盘与打字机的敲击感受，并支持在桌面上显示按下的快捷键，适用于会议、教学或视频教程制作等场合。
 

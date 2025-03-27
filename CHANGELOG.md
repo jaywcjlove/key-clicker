@@ -5,6 +5,18 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.7.0)
+
+1. feat: Add support for key release sound.
+2. feat: Add support for displaying text watermark below the button when pressed.
+3. fix: Optimize initial key press sound delay issue.
+
+---
+
+1. 新增: 添加支持按键抬起声音的功能。
+2. 新增: 添加支持在按钮按下时显示文本水印功能。
+3. 修复: 优化按键按下时声音的初始延迟问题。
+
 ## [v1.6.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.6.0)
 
 1. feat: Display pressed shortcut keys on the desktop.

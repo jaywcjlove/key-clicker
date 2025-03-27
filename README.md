@@ -30,13 +30,13 @@ Minimum requirement: `macOS 14.0`; download from GitHub for the latest version.
 
 </div>
 
-![KeyClicker 1](./assets/screenshots-1.jpg)
+![KeyClicker 1](./assets/screenshots-1.png)
 
-![KeyClicker 2](./assets/screenshots-2.jpg)
+![KeyClicker 2](./assets/screenshots-2.png)
 
-![KeyClicker 3](./assets/screenshots-3.jpg)
+![KeyClicker 3](./assets/screenshots-3.png)
 
-![KeyClicker 4](./assets/screenshots-4.jpg)
+![KeyClicker 4](./assets/screenshots-4.png)
 
 KeyClicker brings a real keyboard typing sound experience to users, recreating the tactile feel of mechanical keyboards and typewriters. It also supports displaying the pressed shortcut keys on the desktop, making it ideal for meetings, teaching, or video tutorial creation.
 
