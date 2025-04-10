@@ -5,6 +5,18 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.8.0)
+
+1. feat: add padding for watermark
+2. fix: fix key event monitoring.
+3. fix: Fix modifier key press/release detection.
+
+---
+
+1. feat: 为水印添加内边距
+2. fix: 修复键盘事件监听
+3. fix: 修复修饰键按下/抬起检测问题
+
 ## [v1.7.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.7.0)
 
 1. feat: Add support for key release sound.
