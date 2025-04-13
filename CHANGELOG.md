@@ -5,6 +5,16 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.8.1)
+
+- fix: correctly display modifier keys.
+- fix: fix modifier key press/release detection issue.
+
+---
+
+- fix: 正确显示修饰键。
+- fix: 修复修饰键按下/释放检测问题。
+
 ## [v1.8.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.8.0)
 
 1. feat: add padding for watermark
