@@ -5,6 +5,18 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.9.0)
+
+1. fix: Fix sound playback issue with some key combinations.
+2. fix: Fix key release sound bug.
+3. fix: Fix keyboard key rendering problem.
+
+---
+
+1. 修复：修复部分组合键无法正常播放声音的问题。
+2. 修复：修复按键释放时的声音播放问题。
+3. 修复：修复键盘按键渲染异常的问题。
+
 ## [v1.8.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.8.1)
 
 - fix: correctly display modifier keys.
