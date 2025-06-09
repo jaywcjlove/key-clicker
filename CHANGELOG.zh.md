@@ -10,6 +10,10 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.1)
+
+1. fix: 长按空格键时声音重复播放
+
 ## [v1.10.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.0)
 
 1. feat: 新增将声音设置为 0 禁用声音的选项。

@@ -5,6 +5,10 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.1)
+
+1. fix: repeated sound on long spacebar press
+
 ## [v1.10.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.0)
 
 1. feat: Add option to set sound volume to 0 to disable sound.
