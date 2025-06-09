@@ -14,8 +14,8 @@
   <p>
     <a href="./README.zh.md">简体中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-    <a href="./feedback.md">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/key-clicker/releases">Changelog</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/key-clicker/issues/new?template=bug_report.yml">Contact & Support</a> • 
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/key-clicker/6740425504" title="KeyClicker for macOS">
