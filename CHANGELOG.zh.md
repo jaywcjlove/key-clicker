@@ -10,6 +10,12 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.11.0)
+
+1. 新增：菜单栏添加启用/禁用切换菜单项
+2. 新增：新增以下音效：蟋蟀尖叫、狗叫、马奔跑、小猫喵叫
+3. 新增：新增以下音效：锻造声、球类击打声、塑料键帽敲击声
+
 ## [v1.10.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.1)
 
 1. fix: 长按空格键时声音重复播放

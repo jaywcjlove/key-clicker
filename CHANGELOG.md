@@ -5,6 +5,12 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.11.0)
+
+1. feat: Add enable/disable toggle menu item in the menu bar
+2. feat: Add sound effects: cricket screech, dog barking, horse gallop, and meow
+3. feat: Add sound effects: forging, game ball tap, and plastic keycap
+
 ## [v1.10.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.1)
 
 1. fix: repeated sound on long spacebar press
