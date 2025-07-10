@@ -10,6 +10,14 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.12.0)
+
+1. 新增：菜单栏添加开启随机音效的开关
+2. 新增：菜单栏添加按键显示的开关
+3. 修复：修复多显示器下快捷键显示问题
+4. 新增：添加 friendly-kiss（亲吻）音效
+5. 新增：添加 gaming-lock（游戏锁定）音效
+
 ## [v1.11.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.11.0)
 
 1. 新增：菜单栏添加启用/禁用切换菜单项
@@ -18,7 +26,7 @@
 
 ## [v1.10.1](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.1)
 
-1. fix: 长按空格键时声音重复播放
+1. 修复: 长按空格键时声音重复播放
 
 ## [v1.10.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.10.0)
 

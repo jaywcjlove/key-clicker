@@ -5,6 +5,14 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.12.0)
+
+1. feat: add toggle to enable random sound in menu bar
+2. feat: add key display toggle in menu bar
+3. fix: shortcut display on multiple monitors
+4. feat: add friendly-kiss sound effect
+5. feat: add gaming-lock sound effect
+
 ## [v1.11.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.11.0)
 
 1. feat: Add enable/disable toggle menu item in the menu bar
