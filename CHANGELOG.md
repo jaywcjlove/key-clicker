@@ -5,6 +5,17 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.13.0)
+
+1. feat: Add sound effects for mouse button clicks.
+2. feat: Add "mario-coin" sound effect.
+3. feat: Add "error" sound effect.
+4. feat: Add "censor-beep" sound effect.
+5. feat: Add "ding2" sound effect.
+6. feat: Add "dry-fart" sound effect.
+7. feat: Add "gchat" sound effect.
+8. feat: Add "typewriter-carriage-return" sound effect.
+
 ## [v1.12.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.12.0)
 
 1. feat: add toggle to enable random sound in menu bar

@@ -10,6 +10,17 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.13.0)
+
+1. 新增：添加鼠标点击声音效果
+2. 新增：添加 "mario-coin" 音效
+3. 新增：添加 "error" 错误提示音效
+4. 新增：添加 "censor-beep" 消音哔声音效
+5. 新增：添加 "ding2" 提示音效
+6. 新增：添加 "dry-fart" 干放屁音效
+7. 新增：添加 "gchat" 谷歌聊天提示音效
+8. 新增：添加 "typewriter-carriage-return" 打字机回车音效
+
 ## [v1.12.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.12.0)
 
 1. 新增：菜单栏添加开启随机音效的开关
