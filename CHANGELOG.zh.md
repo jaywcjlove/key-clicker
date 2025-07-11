@@ -10,6 +10,25 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.14.0)
+
+1. 新增：添加 “取消按键声音” 按钮
+2. 新增：添加 *franklin* 音效
+3. 新增：添加 *alarm* 警报音效
+4. 新增：添加 *klonk* 重击音效
+5. 新增：添加 *squeak* 吱吱声音效
+6. 新增：添加 *woosh* 呼啸声音效
+7. 新增：添加 *neck-crack* 脖子咔咔声音效
+8. 新增：添加 *fast-whoosh* 快速呼啸声音效
+9. 新增：添加 *pubg-pan*（吃鸡平底锅）音效
+10. 新增：添加 *gunshotjbudden/check-mark* 音效
+11. 新增：添加 *gun-load* 装弹音效
+12. 新增：添加 *bone-crack* 骨裂音效
+13. 新增：添加 *bmw-bong* 宝马提示音效
+14. 新增：添加 *maro-jump*（马里奥跳跃）音效
+15. 新增：添加 *punch* 拳击音效
+16. 新增：添加 *chomp-1* 咬合音效
+
 ## [v1.13.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.13.0)
 
 1. 新增：添加鼠标点击声音效果

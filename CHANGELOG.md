@@ -5,6 +5,25 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.14.0)
+
+1. feat: add "unassign key sound" button
+2. feat: add franklin sound effect.
+3. feat: add alarm sound effect.
+4. feat: add klonk sound effect.
+5. feat: add squeak sound effect.
+6. feat: add woosh sound effect.
+7. feat: add neck-crack sound effect.
+8. feat: add fast-whoosh sound effect.
+9. feat: add pubg-pan sound effect.
+10. feat: add gunshotjbudden/check-mark sound effect.
+11. feat: add gun-load sound effect.
+12. feat: add bone-crack sound effect.
+13. feat: add bmw-bong sound effect.
+14. feat: add maro-jump sound effect.
+15. feat: add punch sound effect.
+16. feat: add chomp-1 sound effect.
+
 ## [v1.13.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.13.0)
 
 1. feat: Add sound effects for mouse button clicks.
