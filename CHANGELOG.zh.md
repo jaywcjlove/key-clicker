@@ -10,6 +10,19 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.15.0)
+
+1. 新增：添加 launch-game 音效。
+2. 新增：添加 controller-menu 音效。
+3. 新增：添加 but-loud 音效。
+4. 新增：添加 among 音效。
+5. 新增：添加 snap 音效。
+6. 新增：添加 home 音效。
+7. 新增：添加 eshop 音效。
+8. 新增：添加 error/off/on 音效。
+9. 新增：添加 sound 音效。
+10. 新增：添加 what 音效。
+
 ## [v1.14.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.14.0)
 
 1. 新增：添加 “取消按键声音” 按钮

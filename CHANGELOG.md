@@ -5,6 +5,19 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.15.0)
+
+1. feat: add launch-game sound effect.
+2. feat: add controller-menu sound effect.
+3. feat: add but-loud sound effect.
+4. feat: add among sound effect.
+5. feat: add snap sound effect.
+6. feat: add home sound effect.
+7. feat: add eshop sound effect.
+8. feat: add error/off/on sound effect.
+9. feat: add sound effect.
+10. feat: add what sound effect.
+
 ## [v1.14.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.14.0)
 
 1. feat: add "unassign key sound" button
