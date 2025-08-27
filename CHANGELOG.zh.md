@@ -10,6 +10,14 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.16.0)
+
+1. feat: 新增自定义音效功能。
+2. feat: 新增点击错误（click_error）、叮叮声（ding_ding）、硬币声（coin）、硬币碰撞声（coins_clinking）、和嗖嗖声（whoosh）等音效。
+3. feat: 新增锤子（hammer）音效。
+4. feat: 新增游戏音效。
+5. feat: 新增切换相册音效（switch-album-sound）。
+
 ## [v1.15.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.15.0)
 
 1. 新增：添加 launch-game 音效。

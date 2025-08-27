@@ -5,6 +5,14 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.16.0)
+
+1. feat: Added support for custom sound effects.
+2. feat: Added sound effects for click error, ding-ding, coin, clinking coins, and whoosh.
+3. feat: Added a hammer sound effect.
+4. feat: Added game sound effects.
+5. feat: Added a switch-album sound effect.
+
 ## [v1.15.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.15.0)
 
 1. feat: add launch-game sound effect.
