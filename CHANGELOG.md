@@ -5,6 +5,13 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.0.0)
+
+1. feat: add support for macOS 26. 
+2. perf: optimize menu bar key sound display. 
+3. perf: optimize state update performance. 
+4. ui: refactor settings interface. 
+
 ## [v1.16.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v1.16.0)
 
 1. feat: Added support for custom sound effects.

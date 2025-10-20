@@ -38,6 +38,8 @@ Minimum requirement: `macOS 14.0`; download from GitHub for the latest version.
 
 ![KeyClicker 4](./assets/screenshots-4.png)
 
+![KeyClicker 5](./assets/screenshots-5.png)
+
 KeyClicker brings a real keyboard typing sound experience to users, recreating the tactile feel of mechanical keyboards and typewriters. It also supports displaying the pressed shortcut keys on the desktop, making it ideal for meetings, teaching, or video tutorial creation.
 
 For writers or typewriter enthusiasts, KeyClicker is the perfect choice. Many writers find that the sound of a typewriter helps them enhance focus and creativity. While the charm of physical typewriters is unique, they lack the convenience of modern devices, such as efficient editing and digital operations. With KeyClicker, you can enjoy the classic sound of a typewriter while retaining the powerful editing and publishing capabilities of macOS.
