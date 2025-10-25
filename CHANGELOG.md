@@ -5,6 +5,12 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.1.0)
+
+1. feat: Add keyboard sound settings to menu bar. 
+2. feat: Add status display in menu bar. 
+3. feat: Add keyboard sound options: key down/up/both. 
+
 ## [v2.0.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.0.0)
 
 1. feat: add support for macOS 26. 

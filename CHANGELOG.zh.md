@@ -10,6 +10,12 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.1.0)
+
+1. feat: 菜单栏新增键盘音效设置
+2. feat: 新增状态栏菜单状态显示
+3. feat: 新增键盘音效选项：按下/抬起/两者
+
 ## [v2.0.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.0.0)
 
 1. 新增：新增对 macOS 26 的支持
