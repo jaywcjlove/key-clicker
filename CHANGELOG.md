@@ -5,6 +5,11 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.2.0)
+
+1. feat: optimize key style settings.
+2. feat: optimize enable/disable key press option.
+
 ## [v2.1.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.1.0)
 
 1. feat: Add keyboard sound settings to menu bar. 

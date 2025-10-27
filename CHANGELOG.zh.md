@@ -10,6 +10,11 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.2.0)
+
+1. feat: 优化按键样式设置。
+2. feat: 优化启用/禁用按键选项。
+
 ## [v2.1.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.1.0)
 
 1. feat: 菜单栏新增键盘音效设置
