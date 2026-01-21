@@ -10,6 +10,13 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.3.0)
+
+1. feat: 支持自定义按下和抬起声音。
+2. style: 优化自定义窗口和侧边栏样式。
+3. fix: 修复国际化显示错误。
+4. fix: 解决付费解锁验证错误问题。
+
 ## [v2.2.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.2.0)
 
 1. feat: 优化按键样式设置。

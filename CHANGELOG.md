@@ -5,6 +5,13 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.3.0)
+
+1. feat: Support custom press and release sounds.
+2. style: Optimize custom window and sidebar styles.
+3. fix: Fix internationalization display error.
+4. fix: Resolve issue with paid unlock verification error.
+
 ## [v2.2.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.2.0)
 
 1. feat: optimize key style settings.
