@@ -10,6 +10,11 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.4.0)
+
+1. fix: 修复快速连续按键时声音无法重复播放的问题
+2. refactor: 将应用元数据集成迁移到 MyAppListKitApps
+
 ## [v2.3.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.3.0)
 
 1. feat: 支持自定义按下和抬起声音。

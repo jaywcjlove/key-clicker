@@ -5,6 +5,11 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.4.0)
+
+1. fix: allow repeated sound playback for rapid key presses
+2. refactor: migrate app metadata integration to MyAppListKitApps
+
 ## [v2.3.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.3.0)
 
 1. feat: Support custom press and release sounds.
