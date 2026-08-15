@@ -79,6 +79,7 @@ jobs:
           EOF
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: cp -rp assets/mousio-preview.jpeg dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
