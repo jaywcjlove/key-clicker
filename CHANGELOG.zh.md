@@ -10,6 +10,12 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.5.0)
+
+1. feat: 新增德语、法语、意大利语、日语、韩语、俄语、繁体中文语言支持
+2. feat: 重构权限授权界面
+3. fix: 在 macOS 27+ 上正常显示 NSMenuItem 图标图像
+
 ## [v2.4.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.4.0)
 
 1. fix: 修复快速连续按键时声音无法重复播放的问题

@@ -5,6 +5,12 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.5.0)
+
+1. feat: Add de/fr/it/ja/ko/ru/zh-Hant language.
+2. feat: Refactor permission authorization UI.
+3. fix(ui): explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v2.4.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.4.0)
 
 1. fix: allow repeated sound playback for rapid key presses
