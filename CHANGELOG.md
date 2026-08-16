@@ -5,6 +5,11 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.6.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.6.0)
+
+1. feat: Add permission check for menu bar, prompt authorization when permission denied. 
+2. feat: Optimize sidebar icon styles. 
+
 ## [v2.5.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.5.0)
 
 1. feat: Add de/fr/it/ja/ko/ru/zh-Hant language.

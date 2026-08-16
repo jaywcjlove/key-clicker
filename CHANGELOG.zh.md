@@ -10,6 +10,11 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.6.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.6.0)
+
+1. feat：菜单栏新增权限校验，无权限时唤起授权提示
+2. feat：优化侧边栏图标样式
+
 ## [v2.5.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.5.0)
 
 1. feat: 新增德语、法语、意大利语、日语、韩语、俄语、繁体中文语言支持
