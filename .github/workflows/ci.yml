@@ -46,21 +46,6 @@ jobs:
           tocs: false
           element: 
             wrapper: style=max-width:720px;
-          meta:
-            - <meta name="author" content="Kenny Wong">
-            - <meta property="og:site_name" content="<%= site %>">
-            - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/mousio-preview.jpeg">
-            - <meta property="og:type" content="application">
-            - <meta property="og:title" content="<%= site %>">
-            - <meta property="og:description" content="<%= description%>">
-            - <meta property="twitter:image:src" content="<%=homepage%>assets/mousio-preview.jpeg">
-            - <meta property="twitter:site" content="@jaywcjlove">
-            - <meta property="twitter:creator" content="jaywcjlove">
-            - <meta property="twitter:card" content="summary_large_image">
-            - <meta property="twitter:title" content="<%= site %> - <%= description%>">
-            - <meta property="twitter:description" content="<%= description%>">
-            - <meta name="apple-itunes-app" content="app-id=6746747327">
           menus:
             Home: index.html
             Apps: https://wangchujiang.com/#/app
