@@ -10,6 +10,14 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.7.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.7.0)
+
+1. feat: 新增按键可视化位置移动功能
+2. feat: 为按键可视化工具新增更多样式
+3. feat: 更新应用图标
+4. fix: 自定义声音不存在时弹出提示
+5. fix: 修复菜单栏按钮图标出现时抖动问题
+
 ## [v2.6.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.6.0)
 
 1. feat：菜单栏新增权限校验，无权限时唤起授权提示

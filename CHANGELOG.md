@@ -5,6 +5,14 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.7.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.7.0)
+
+1. feat: add position moving for keyboard visualizer. 
+2. feat: add more styles for keyboard visualizer. 
+3. feat: Update App icon. 
+4. fix: add prompt for missing custom sound. 
+5. fix: Fix jitter on appearance of menu bar button icons. 
+
 ## [v2.6.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.6.0)
 
 1. feat: Add permission check for menu bar, prompt authorization when permission denied. 
