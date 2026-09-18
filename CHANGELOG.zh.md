@@ -10,6 +10,12 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.8.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.8.0)
+
+1. feat: 状态栏按键可视化新增子菜单，支持快捷配置常用选项
+2. fix: 优化按键可视化动画问题
+3. fix: 优化按键可视化抖动问题
+
 ## [v2.7.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.7.0)
 
 1. feat: 新增按键可视化位置移动功能

@@ -5,6 +5,12 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.8.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.8.0)
+
+1. feat: add submenu for keyboard visualizer in status bar to quickly configure common options. 
+2. fix: optimize animation issues of keyboard visualizer. 
+3. fix: optimize jitter issue of keyboard visualizer. 
+
 ## [v2.7.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.7.0)
 
 1. feat: add position moving for keyboard visualizer. 
