@@ -10,6 +10,13 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.9.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.9.0)
+
+1. feat: 优化键盘音效配置
+2. feat: 在状态栏添加键盘可视化器子菜单，用于快速配置常用选项
+3. fix: 修复键盘可视化器动画相关问题
+4. fix: 修复键盘可视化器抖动问题
+
 ## [v2.8.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.8.0)
 
 1. feat: 状态栏按键可视化新增子菜单，支持快捷配置常用选项
