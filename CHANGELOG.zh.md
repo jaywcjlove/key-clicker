@@ -10,6 +10,12 @@
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.10.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.10.0)
+
+1. feat：新增设置选项，支持在按键按下音效后播放按键抬起音效。
+2. fix：修复快速连续输入时，部分按键音效无法播放的问题，确保每次按键都有对应音效。
+3. fix：修复应用自动停止运行并被强制退出的问题。
+
 ## [v2.9.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.9.0)
 
 1. feat: 优化键盘音效配置

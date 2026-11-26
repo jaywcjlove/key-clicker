@@ -5,6 +5,12 @@ Changelog
     <img alt="KeyClicker AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.10.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.10.0)
+
+1. feat: add a setting to play the key up sound after the key down sound.
+2. fix: play a sound for each keystroke when typing quickly.
+3. fix: prevent the app from automatically stopping and force quitting.
+
 ## [v2.9.0](https://github.com/jaywcjlove/key-clicker/releases/tag/v2.9.0)
 
 1. feat: improve keyboard sound configuration 
